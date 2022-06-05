@@ -1,0 +1,25 @@
+{
+  "table": "example",
+  "fields":[
+    {
+      "name": "id",
+      "type": "Int32"
+    },
+    {
+      "name": "firstname",
+      "type": "String"
+    },
+    {
+      "name": "lastname",
+      "type": "String"
+    },
+    {
+      "name": "range",
+      "type": "Int32"
+    },
+    {
+      "name": "poi",
+      "type": "Double"
+    }
+  ]
+}
